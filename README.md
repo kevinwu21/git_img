@@ -1,1 +1,1 @@
-# This Repository Is Used To Store Personal Picture.
+# This repository is used to store personal picture.
